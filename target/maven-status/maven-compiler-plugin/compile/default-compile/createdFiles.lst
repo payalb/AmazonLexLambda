@@ -1,0 +1,8 @@
+com\java\DialogAction.class
+com\java\Message.class
+com\java\LexRequestFactory.class
+com\java\dto\DairyDepartment.class
+com\java\LexResponse.class
+com\java\MyRequestHandler.class
+com\java\dto\BakeryDepartment.class
+com\java\LexRequest.class
